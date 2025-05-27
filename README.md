@@ -32,4 +32,4 @@ A seguir as ferramentas que usei para o projeto
 
 <h2 id=author>:grin: Autor </h2>
 
-Developed by <a href="https://www.linkedin.com/in/danhpaiva/](https://www.linkedin.com/in/henrique-ignacio-ferreira-souza-6517562b9/" target="_blank">Henrique Ignacio</a>
+Developed by <a href="https://www.linkedin.com/in/henrique-ignacio-ferreira-souza-6517562b9/" target="_blank">Henrique Ignacio</a>
